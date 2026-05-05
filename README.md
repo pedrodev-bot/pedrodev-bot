@@ -20,4 +20,6 @@ A C++ command-line tool to calculate the mean and uncertainty of a series of mea
 ## 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/pedro-lopes-dev/) | [Email](mailto:ausalopedro@gmail.com)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedrodev-bot&theme=dark&hide_border=true)
+<div align="center">
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedrodev-bot&theme=tokyonight&hide_border=true)
+</div>
