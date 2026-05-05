@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Pedro%20Augusto&fontSize=70&fontColor=ffffff](https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Pedro%20Augusto&fontSize=70&fontColor=ffffff)" width="100%" />
+</div>
+
 # Hi, I'm Pedro Augusto! 👋
 
 Competitive Programmer & Computer Science Student at UFABC.
